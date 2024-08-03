@@ -73,7 +73,6 @@ The Fingerprint Lock System is a security project that utilizes a fingerprint se
 ## Circuit Diagram
 The following diagram illustrates the connections:
 
-![Circuit Diagram](path/to/circuit_diagram.png)
 
 - **Fingerprint Sensor**:
   - Vcc -> 5V
